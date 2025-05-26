@@ -1,0 +1,14 @@
+# Ignore common directories and files
+node_modules/
+dist/
+build/
+.env
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
