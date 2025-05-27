@@ -1,0 +1,52 @@
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\bin\Debug\VoIPms.exe.config
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\bin\Debug\VoIPms.exe
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\bin\Debug\VoIPms.pdb
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\bin\Debug\VoIPms.xml
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\obj\Debug\VoIPms.Resources.resources
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\obj\Debug\VoIPms.vbproj.GenerateResource.Cache
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\obj\Debug\VoIPms.exe
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\obj\Debug\VoIPms.xml
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\obj\Debug\VoIPms.pdb
+C:\Users\FherNando\Documents\Visual Studio 2008\Projects\VoIPms\VoIPms\obj\Debug\VoIPms.frmExamples.resources
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\bin\Debug\VoIPms.exe.config
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\obj\Debug\VoIPms.exe
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\obj\Debug\VoIPms.xml
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\obj\Debug\VoIPms.pdb
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\bin\Debug\VoIPms.exe
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\bin\Debug\VoIPms.pdb
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\bin\Debug\VoIPms.xml
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\obj\Debug\VoIPms.frmExamples.resources
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\obj\Debug\VoIPms.Resources.resources
+C:\Users\FherNando\Desktop\API Docs\Examples for Net\VoIPms\obj\Debug\VoIPms.vbproj.GenerateResource.Cache
+C:\Documents and Settings\FherNando\Escritorio\Examples for Net\VoIPms\bin\Debug\VoIPms.exe.config
+C:\Documents and Settings\FherNando\Escritorio\Examples for Net\VoIPms\obj\Debug\VoIPms.exe
+C:\Documents and Settings\FherNando\Escritorio\Examples for Net\VoIPms\obj\Debug\VoIPms.xml
+C:\Documents and Settings\FherNando\Escritorio\Examples for Net\VoIPms\obj\Debug\VoIPms.pdb
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\bin\Debug\VoIPms.exe.config
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\obj\Debug\VoIPms.exe
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\obj\Debug\VoIPms.xml
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\obj\Debug\VoIPms.pdb
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\bin\Debug\VoIPms.exe
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\bin\Debug\VoIPms.pdb
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\bin\Debug\VoIPms.xml
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\obj\Debug\VoIPms.frmExamples.resources
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\obj\Debug\VoIPms.Resources.resources
+C:\Documents and Settings\FherNando\Escritorio\Examples for .Net\VoIPms\obj\Debug\VoIPms.vbproj.GenerateResource.Cache
+C:\Users\FherNando\Desktop\Examples for .Net\VoIPms\bin\Debug\VoIPms.exe.config
+C:\Users\FherNando\Desktop\Examples for .Net\VoIPms\obj\Debug\VoIPms.exe
+C:\Users\FherNando\Desktop\Examples for .Net\VoIPms\obj\Debug\VoIPms.xml
+C:\Users\FherNando\Desktop\Examples for .Net\VoIPms\obj\Debug\VoIPms.pdb
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\bin\Debug\VoIPms.exe.config
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\obj\Debug\VoIPms.exe
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\obj\Debug\VoIPms.xml
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\obj\Debug\VoIPms.pdb
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\bin\Debug\VoIPms.exe
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\bin\Debug\VoIPms.pdb
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\bin\Debug\VoIPms.xml
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\obj\Debug\VoIPms.frmExamples.resources
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\obj\Debug\VoIPms.Resources.resources
+C:\Users\FherNando\Desktop\API\Examples SOAP for .Net\VoIPms\obj\Debug\VoIPms.vbproj.GenerateResource.Cache
